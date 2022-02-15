@@ -46,6 +46,8 @@
 
 [《Flutter实战·第二版》](https://book.flutterchina.club/preface.html#%E7%AC%AC%E4%BA%8C%E7%89%88%E5%8F%98%E5%8C%96)
 
+[Dart 语言概览 - 中文](https://dart.cn/guides/language/language-tour)
+
 ### Deep Learning - 深度学习
 
 [动手学深度学习](https://zh.d2l.ai/) - 一本很新颖的书！
