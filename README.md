@@ -58,6 +58,8 @@
 
 [关于Support for password authentication was removed on August 13, 2021报错的解决方案](https://zhuanlan.zhihu.com/p/414028184)
 
+[Github为什么没有记录你的Contributions - Cheko - 博客园 (cnblogs.com)](https://www.cnblogs.com/cheko/p/6623437.html)
+
 ### 个人笔记
 
 [Leetcode刷题笔记 - Notion](https://dynamic-swoop-086.notion.site/LeetCode-f220bdf00f294374b3b35c9277f07eb0)
