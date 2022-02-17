@@ -52,6 +52,12 @@
 
 [动手学深度学习](https://zh.d2l.ai/) - 一本很新颖的书！
 
+### Git相关
+
+[Git教程 - 廖雪峰的官方网站 (liaoxuefeng.com)](https://www.liaoxuefeng.com/wiki/896043488029600)
+
+[关于Support for password authentication was removed on August 13, 2021报错的解决方案](https://zhuanlan.zhihu.com/p/414028184)
+
 ### 个人笔记
 
 [Leetcode刷题笔记 - Notion](https://dynamic-swoop-086.notion.site/LeetCode-f220bdf00f294374b3b35c9277f07eb0)
