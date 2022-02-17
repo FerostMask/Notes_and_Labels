@@ -51,3 +51,9 @@
 ### Deep Learning - 深度学习
 
 [动手学深度学习](https://zh.d2l.ai/) - 一本很新颖的书！
+
+### 个人笔记
+
+[Leetcode刷题笔记 - Notion](https://dynamic-swoop-086.notion.site/LeetCode-f220bdf00f294374b3b35c9277f07eb0)
+
+[Linux入门笔记 - Notion](https://dynamic-swoop-086.notion.site/Linux-ab34330737714b86968334766d38bbce)
