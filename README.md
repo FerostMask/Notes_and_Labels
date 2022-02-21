@@ -6,6 +6,12 @@
 
 >    “用代码赋予机器灵魂”
 
+### 个人笔记
+
+[Leetcode刷题笔记 - Notion](https://dynamic-swoop-086.notion.site/LeetCode-f220bdf00f294374b3b35c9277f07eb0)
+
+[Linux入门笔记 - Notion](https://dynamic-swoop-086.notion.site/Linux-ab34330737714b86968334766d38bbce)
+
 ### 操作系统 - Operating System
 
 >   我觉得学编程有必要学习操作系统，这能帮助我们理解和记忆线程、进程、内存管理等技术细节
@@ -60,8 +66,3 @@
 
 [Github为什么没有记录你的Contributions - Cheko - 博客园 (cnblogs.com)](https://www.cnblogs.com/cheko/p/6623437.html)
 
-### 个人笔记
-
-[Leetcode刷题笔记 - Notion](https://dynamic-swoop-086.notion.site/LeetCode-f220bdf00f294374b3b35c9277f07eb0)
-
-[Linux入门笔记 - Notion](https://dynamic-swoop-086.notion.site/Linux-ab34330737714b86968334766d38bbce)
