@@ -28,6 +28,10 @@
 
 [C语言数组指针和指针数组](http://c.biancheng.net/view/368.html)
 
+[C语言中结构体占用内存问题 - 嗜血的草 - 博客园](https://www.cnblogs.com/kl2blog/p/6908048.html)
+
+[链表](https://www.cnblogs.com/lanhaicode/p/10304567.html)
+
 ### C++
 
 [详细介绍C++STL: unordered_map](https://www.cnblogs.com/langyao/p/8823092.html)
@@ -35,6 +39,8 @@
 [C++ STL unordered_map容器用法详解](http://c.biancheng.net/view/7231.html)
 
 [C++ Stack（栈）](https://www.cainiaojc.com/cpp/cpp-stack.html)
+
+[C++ 字符串 | 菜鸟教程 ](https://www.runoob.com/cplusplus/cpp-strings.html)
 
 ### Linux
 
