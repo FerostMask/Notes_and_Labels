@@ -20,6 +20,10 @@
 
 [如何阅读《深入理解计算机系统》这本书](https://www.zhihu.com/question/20402534/answer/124950081)
 
+### RTOS - 实时操作系统
+
+[RT_Thread 内核](https://www.rt-thread.org/document/site/#/rt-thread-version/rt-thread-standard/programming-manual/basic/basic)
+
 ### C
 
 [C语言中的const](https://www.cnblogs.com/zhangfeionline/p/5882790.html)
@@ -54,11 +58,21 @@
 
 [linux 下python升级至最新版本](https://www.cnblogs.com/yaradish/p/10503563.html) - 对我来说很新奇的操作
 
+### Rust
+
+[学习Rust](https://www.rust-lang.org/zh-CN/learn)
+
 ### Flutter
 
 [《Flutter实战·第二版》](https://book.flutterchina.club/preface.html#%E7%AC%AC%E4%BA%8C%E7%89%88%E5%8F%98%E5%8C%96)
 
 [Dart 语言概览 - 中文](https://dart.cn/guides/language/language-tour)
+
+[界面设计案例](https://material-io.cn/components/app-bars-bottom)
+
+[核心Widget目录](https://flutter.cn/docs/development/ui/widgets)
+
+[图标库](https://fonts.google.com/icons?selected=Material+Icons)
 
 ### Deep Learning - 深度学习
 
