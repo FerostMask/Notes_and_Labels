@@ -36,6 +36,8 @@
 
 [链表](https://www.cnblogs.com/lanhaicode/p/10304567.html)
 
+[结构体、联合体](https://www.cnblogs.com/sunshine88/p/8910952.html)
+
 ### C++
 
 [详细介绍C++STL: unordered_map](https://www.cnblogs.com/langyao/p/8823092.html)
