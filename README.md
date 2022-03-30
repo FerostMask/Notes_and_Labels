@@ -88,3 +88,18 @@
 
 [Github为什么没有记录你的Contributions - Cheko - 博客园 (cnblogs.com)](https://www.cnblogs.com/cheko/p/6623437.html)
 
+### Latex
+
+[全面总结如何在 LaTeX 中使用中文 (2020 最新版) - jdhao's digital space](https://jdhao.github.io/2018/03/29/latex-chinese.zh/)
+
+[搭建 LaTeX 舒适写作环境（VSCode） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/139210056)
+
+[LaTeX—pgfplots宏包入门使用教程 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/128341873)
+
+[LATEX科研论文写作教程 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/134305294)
+
+[Latex 对中文字体设置的一些解决 - LitBro - 博客园 (cnblogs.com)](https://www.cnblogs.com/LitBro/p/12074820.html)
+
+[一份其实很短的 LaTeX 入门文档 | 始终 (liam.page)](https://liam.page/2014/09/08/latex-introduction/)
+
+[LaTeX新手入门教程-数学公式_caiandyong的博客-CSDN博客_latex数学公式宏包](https://blog.csdn.net/caiandyong/article/details/53311862)
