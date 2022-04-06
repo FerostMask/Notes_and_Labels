@@ -76,6 +76,10 @@
 
 [图标库](https://fonts.google.com/icons?selected=Material+Icons)
 
+[Flutter路由导航及传参](https://xiaoliblog.cn/page/Flutter06.html#%E8%B7%AF%E7%94%B1%E5%B0%81%E8%A3%85)
+
+[获取本地IP](https://medium.com/@mdtosif0mt/how-to-get-the-local-ip-of-your-phone-in-the-flutter-framework-e507b424865b)
+
 ### Deep Learning - 深度学习
 
 [动手学深度学习](https://zh.d2l.ai/) - 一本很新颖的书！
@@ -87,6 +91,8 @@
 [关于Support for password authentication was removed on August 13, 2021报错的解决方案](https://zhuanlan.zhihu.com/p/414028184)
 
 [Github为什么没有记录你的Contributions - Cheko - 博客园 (cnblogs.com)](https://www.cnblogs.com/cheko/p/6623437.html)
+
+[Git变基_程序员储物箱的博客-CSDN博客_git 变基](https://blog.csdn.net/qq_39512532/article/details/110260369)
 
 ### Latex
 
@@ -103,3 +109,5 @@
 [一份其实很短的 LaTeX 入门文档 | 始终 (liam.page)](https://liam.page/2014/09/08/latex-introduction/)
 
 [LaTeX新手入门教程-数学公式_caiandyong的博客-CSDN博客_latex数学公式宏包](https://blog.csdn.net/caiandyong/article/details/53311862)
+
+[How to Convert from Latex to MS Word with ‘Pandoc’ | by Zhelin Chen | Medium](https://medium.com/@zhelinchen91/how-to-convert-from-latex-to-ms-word-with-pandoc-f2045a762293)
