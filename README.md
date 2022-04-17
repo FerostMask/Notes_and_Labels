@@ -38,6 +38,10 @@
 
 [结构体、联合体](https://www.cnblogs.com/sunshine88/p/8910952.html)
 
+[C语言计算商和余数div](https://blog.csdn.net/weixin_39956356/article/details/112019258?spm=1001.2101.3001.6650.5&utm_medium=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~Rate-5.pc_relevant_antiscanv2&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~Rate-5.pc_relevant_antiscanv2&utm_relevant_index=8)
+
+[C语言中数组长度的计算详解](https://blog.csdn.net/qq_25626505/article/details/106303111)
+
 ### C++
 
 [详细介绍C++STL: unordered_map](https://www.cnblogs.com/langyao/p/8823092.html)
@@ -47,6 +51,10 @@
 [C++ Stack（栈）](https://www.cainiaojc.com/cpp/cpp-stack.html)
 
 [C++ 字符串 | 菜鸟教程 ](https://www.runoob.com/cplusplus/cpp-strings.html)
+
+[c++ map基础知识、按键排序、按值排序 - 简书 (jianshu.com)](https://www.jianshu.com/p/5b24ac2a6cac)
+
+[使用C++的transform函数实现string的大小写转换](https://blog.csdn.net/weixin_44321570/article/details/113461726)
 
 ### Linux
 
@@ -111,3 +119,17 @@
 [LaTeX新手入门教程-数学公式_caiandyong的博客-CSDN博客_latex数学公式宏包](https://blog.csdn.net/caiandyong/article/details/53311862)
 
 [How to Convert from Latex to MS Word with ‘Pandoc’ | by Zhelin Chen | Medium](https://medium.com/@zhelinchen91/how-to-convert-from-latex-to-ms-word-with-pandoc-f2045a762293)
+
+[VSCode+latex引用bibtex参考文献](https://blog.csdn.net/JohnJim0/article/details/103309475)
+
+[How to Cite References: IEEE Documentation Style](https://ieee-dataport.org/sites/default/files/analysis/27/IEEE Citation Guidelines.pdf)
+
+[LaTex图片排版](https://www.jianshu.com/p/d9df490e48b8)
+
+### 控制理论
+
+[Three Types of PID Equations](http://bestune.50megs.com/typeABC.htm)
+
+[SPACE VECTOR PWM INTRO](https://www.switchcraft.org/learning/2017/3/15/space-vector-pwm-intro)
+
+[LQR控制算法推导以及简单分析](https://blog.csdn.net/qq_24649627/article/details/104690279)
