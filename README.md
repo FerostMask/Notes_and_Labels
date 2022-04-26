@@ -42,6 +42,8 @@
 
 [C语言中数组长度的计算详解](https://blog.csdn.net/qq_25626505/article/details/106303111)
 
+[C语言格式化输出函数printf实例详解](https://www.dotcpp.com/course/14)
+
 ### C++
 
 [详细介绍C++STL: unordered_map](https://www.cnblogs.com/langyao/p/8823092.html)
@@ -112,7 +114,7 @@
 
 [LATEX科研论文写作教程 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/134305294)
 
-[Latex 对中文字体设置的一些解决 - LitBro - 博客园 (cnblogs.com)](https://www.cnblogs.com/LitBro/p/12074820.html)
+[Latex 对中文字体设置的一些解决 - LitBro](https://www.cnblogs.com/LitBro/p/12074820.html)
 
 [一份其实很短的 LaTeX 入门文档 | 始终 (liam.page)](https://liam.page/2014/09/08/latex-introduction/)
 
@@ -125,6 +127,12 @@
 [How to Cite References: IEEE Documentation Style](https://ieee-dataport.org/sites/default/files/analysis/27/IEEE Citation Guidelines.pdf)
 
 [LaTex图片排版](https://www.jianshu.com/p/d9df490e48b8)
+
+[Latex中的表格](https://blog.csdn.net/m0_49946797/article/details/119356892)
+
+[latex 代码环境](https://www.csdn.net/tags/MtjaQg5sOTA4NDItYmxvZwO0O0OO0O0O.html)
+
+[常用数学符号的 LaTeX 表示方法](http://www.mohu.org/info/symbols/symbols.htm)
 
 ### 控制理论
 
