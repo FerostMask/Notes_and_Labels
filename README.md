@@ -44,6 +44,8 @@
 
 [C语言格式化输出函数printf实例详解](https://www.dotcpp.com/course/14)
 
+[Enumeration (or enum) in C](https://www.geeksforgeeks.org/enumeration-enum-c/)
+
 ### C++
 
 [详细介绍C++STL: unordered_map](https://www.cnblogs.com/langyao/p/8823092.html)
@@ -134,6 +136,18 @@
 
 [常用数学符号的 LaTeX 表示方法](http://www.mohu.org/info/symbols/symbols.htm)
 
+[Latex中文参考文献格式](https://www.csdn.net/tags/Ntjagg0sNDAwNTEtYmxvZwO0O0OO0O0O.html)
+
+[LaTeX的字体设置](https://blog.csdn.net/m0_55746113/article/details/122770472)
+
+[LaTeX 页码](https://blog.csdn.net/xovee/article/details/119654457)
+
+[LaTex的图编号如何关联章节](https://www.zhihu.com/question/428737828)
+
+[Latex数学公式转Word公式](https://www.jianshu.com/p/0947ebcfc42e)
+
+## 自动化相关
+
 ### 控制理论
 
 [Three Types of PID Equations](http://bestune.50megs.com/typeABC.htm)
@@ -141,3 +155,7 @@
 [SPACE VECTOR PWM INTRO](https://www.switchcraft.org/learning/2017/3/15/space-vector-pwm-intro)
 
 [LQR控制算法推导以及简单分析](https://blog.csdn.net/qq_24649627/article/details/104690279)
+
+### 传感器
+
+[圆点博士 陀螺仪和加速度计MPU6050的单位换算方法](https://www.shuzhiduo.com/A/xl56j7r05r/)
