@@ -46,6 +46,8 @@
 
 [Enumeration (or enum) in C](https://www.geeksforgeeks.org/enumeration-enum-c/)
 
+[C语言中do...while(0)的妙用](https://www.cnblogs.com/cpoint/p/3386370.html)
+
 ### C++
 
 [详细介绍C++STL: unordered_map](https://www.cnblogs.com/langyao/p/8823092.html)
