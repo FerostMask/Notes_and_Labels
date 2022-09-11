@@ -64,7 +64,9 @@
 
 ### ESP32
 
-[ESP32增加文件夹及文件](http://t.csdn.cn/JQt7r)
+[ESP32 IDF 给工程新增文件夹与源文件](http://t.csdn.cn/mGriw)
+
+[项目 CMakeLists 文件](https://docs.espressif.com/projects/esp-idf/zh_CN/v4.4.2/esp32s3/api-guides/build-system.html#cmakelists)
 
 ### Linux
 
