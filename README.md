@@ -62,6 +62,10 @@
 
 [使用C++的transform函数实现string的大小写转换](https://blog.csdn.net/weixin_44321570/article/details/113461726)
 
+### ESP32
+
+[ESP32增加文件夹及文件](http://t.csdn.cn/JQt7r)
+
 ### Linux
 
 [Linux GCC常用命令](https://www.cnblogs.com/ggjucheng/archive/2011/12/14/2287738.html)
