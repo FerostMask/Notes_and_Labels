@@ -128,7 +128,7 @@
 
 [VSCode+latex引用bibtex参考文献](https://blog.csdn.net/JohnJim0/article/details/103309475)
 
-[How to Cite References: IEEE Documentation Style](https://ieee-dataport.org/sites/default/files/analysis/27/IEEE Citation Guidelines.pdf)
+[How to Cite References: IEEE Documentation Style](https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf)
 
 [LaTex图片排版](https://www.jianshu.com/p/d9df490e48b8)
 
