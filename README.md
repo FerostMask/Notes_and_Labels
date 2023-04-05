@@ -1,18 +1,18 @@
 # 学习笔记和书签
 
-比较杂乱的仓库，会写一些学习见解，README中有学习链接
+>  比较杂乱的仓库，会写一些学习见解，README中有学习链接
 
-## 编程技术
+# 编程技术
 
 >    “用代码赋予机器灵魂”
 
-### 个人笔记
+## 个人笔记
 
 [Leetcode刷题笔记 - Notion](https://dynamic-swoop-086.notion.site/LeetCode-f220bdf00f294374b3b35c9277f07eb0)
 
 [Linux入门笔记 - Notion](https://dynamic-swoop-086.notion.site/Linux-ab34330737714b86968334766d38bbce)
 
-### 操作系统 - Operating System
+## 操作系统 - Operating System
 
 >   我觉得学编程有必要学习操作系统，这能帮助我们理解和记忆线程、进程、内存管理等技术细节
 
@@ -20,11 +20,11 @@
 
 [如何阅读《深入理解计算机系统》这本书](https://www.zhihu.com/question/20402534/answer/124950081)
 
-### RTOS - 实时操作系统
+## RTOS - 实时操作系统
 
 [RT_Thread 内核](https://www.rt-thread.org/document/site/#/rt-thread-version/rt-thread-standard/programming-manual/basic/basic)
 
-### C
+## C
 
 [C语言中的const](https://www.cnblogs.com/zhangfeionline/p/5882790.html)
 
@@ -48,7 +48,7 @@
 
 [C语言中do...while(0)的妙用](https://www.cnblogs.com/cpoint/p/3386370.html)
 
-### C++
+## C++
 
 [详细介绍C++STL: unordered_map](https://www.cnblogs.com/langyao/p/8823092.html)
 
@@ -62,13 +62,13 @@
 
 [使用C++的transform函数实现string的大小写转换](https://blog.csdn.net/weixin_44321570/article/details/113461726)
 
-### ESP32
+## ESP32
 
 [ESP32 IDF 给工程新增文件夹与源文件](http://t.csdn.cn/mGriw)
 
 [项目 CMakeLists 文件](https://docs.espressif.com/projects/esp-idf/zh_CN/v4.4.2/esp32s3/api-guides/build-system.html#cmakelists)
 
-### Linux
+## Linux
 
 [Linux GCC常用命令](https://www.cnblogs.com/ggjucheng/archive/2011/12/14/2287738.html)
 
@@ -80,11 +80,11 @@
 
 [linux 下python升级至最新版本](https://www.cnblogs.com/yaradish/p/10503563.html) - 对我来说很新奇的操作
 
-### Rust
+## Rust
 
 [学习Rust](https://www.rust-lang.org/zh-CN/learn)
 
-### Flutter
+## Flutter
 
 [《Flutter实战·第二版》](https://book.flutterchina.club/preface.html#%E7%AC%AC%E4%BA%8C%E7%89%88%E5%8F%98%E5%8C%96)
 
@@ -100,11 +100,11 @@
 
 [获取本地IP](https://medium.com/@mdtosif0mt/how-to-get-the-local-ip-of-your-phone-in-the-flutter-framework-e507b424865b)
 
-### Deep Learning - 深度学习
+## Deep Learning - 深度学习
 
 [动手学深度学习](https://zh.d2l.ai/) - 一本很新颖的书！
 
-### Git相关
+## Git相关
 
 [Git Workflows and Tutorials](https://github.com/oldratlee/translations/blob/master/git-workflows-and-tutorials/README.md) - 了解Git中的几种工作流
 
@@ -118,7 +118,7 @@
 
 [Git工作流指南](https://github.com/oldratlee/translations/blob/master/git-workflows-and-tutorials/README.md)
 
-### Latex
+## Latex
 
 [全面总结如何在 LaTeX 中使用中文 (2020 最新版) - jdhao's digital space](https://jdhao.github.io/2018/03/29/latex-chinese.zh/)
 
@@ -158,9 +158,9 @@
 
 [Latex数学公式转Word公式](https://www.jianshu.com/p/0947ebcfc42e)
 
-## 自动化相关
+# 自动化相关
 
-### 控制理论
+## 控制理论
 
 [Three Types of PID Equations](http://bestune.50megs.com/typeABC.htm)
 
@@ -168,6 +168,6 @@
 
 [LQR控制算法推导以及简单分析](https://blog.csdn.net/qq_24649627/article/details/104690279)
 
-### 传感器
+## 传感器
 
 [圆点博士 陀螺仪和加速度计MPU6050的单位换算方法](https://www.shuzhiduo.com/A/xl56j7r05r/)
