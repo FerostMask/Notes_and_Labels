@@ -116,6 +116,8 @@
 
 [Git变基_程序员储物箱的博客-CSDN博客_git 变基](https://blog.csdn.net/qq_39512532/article/details/110260369)
 
+[Git工作流指南](https://github.com/oldratlee/translations/blob/master/git-workflows-and-tutorials/README.md)
+
 ### Latex
 
 [全面总结如何在 LaTeX 中使用中文 (2020 最新版) - jdhao's digital space](https://jdhao.github.io/2018/03/29/latex-chinese.zh/)
