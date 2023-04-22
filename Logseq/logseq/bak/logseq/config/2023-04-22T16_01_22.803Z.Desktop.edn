@@ -343,7 +343,7 @@
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :feature/enable-whiteboards? true
- :graph/settings {:journal? false}
+ :graph/settings {:journal? true}
 
  ;; specify the format of the filename for journal files
  ;; :journal/file-name-format "yyyy_MM_dd"
